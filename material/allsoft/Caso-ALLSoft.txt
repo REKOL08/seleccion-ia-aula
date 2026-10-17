@@ -2,7 +2,7 @@ ALLSoft | Bienvenida y desarrollo
 
 ALLSoft
 Software a medida | Automatizacion | Integraciones
-Modelo de formacion | Contexto empresarial colombiano
+Bienvenida | Desarrollo | Seguimiento
 1
 Bienvenido/a a ALLSoft
 Kit de bienvenida y desarrollo
@@ -31,7 +31,7 @@ las tareas y valida los avances.
 
 ALLSoft
 Software a medida | Automatizacion | Integraciones
-Modelo de formacion | Contexto empresarial colombiano
+Bienvenida | Desarrollo | Seguimiento
 2
 Tu plan de desarrollo
 Seguimiento a 7, 14 y 30 días
@@ -39,7 +39,7 @@ Punto de partida: la revisión identifica manejo básico de hojas de cálculo y 
 de duplicados y la priorización. Conversa con tu líder para confirmar la evidencia y ajustar el plan antes de
 aceptarlo.
 Día 7 | Calidad del registro
-Actividad: revisar veinte solicitudes con cinco duplicados preparados para el ejercicio, usando filtros y una
+Actividad: revisar veinte solicitudes con cinco duplicados en una muestra de control, usando filtros y una
 fórmula de control. Meta: identificar los cinco sin alterar registros válidos. Entrega: hoja revisada y explicación
 del método. Apoyo: una sesión de 30 minutos con el líder. Estado: pendiente de revisión.
 Día 14 | Priorización y comunicación
@@ -61,7 +61,7 @@ adjunta este kit a la empresa elegida y revisa nombre, logo, destinatario y arch
 
 
 NOTAS PARA PREPARAR MATERIAL EN NOTEBOOKLM
-Presentar el contenido con tono empresarial colombiano, sin repetir advertencias en títulos o párrafos. Conservar una nota discreta de modelo de formación. Los casos de Bogotá, Medellín y Cali son situaciones diseñadas para enseñar, no hechos comprobados de clientes. No inventar políticas, beneficios, contratos ni resultados reales de ALLSoft.
+Presentar el contenido con tono empresarial colombiano, sin repetir advertencias en títulos o párrafos. En el material de trabajo usar títulos propios del proceso; identificar datos de demostración cuando corresponda. Los casos de Bogotá, Medellín y Cali son situaciones diseñadas para enseñar, no hechos comprobados de clientes. No inventar políticas, beneficios, contratos ni resultados reales de ALLSoft.
 
 REFERENCIAS
 ALLSoft: https://allsoft.pages.dev/ (contexto de software a medida, automatización e integraciones).
