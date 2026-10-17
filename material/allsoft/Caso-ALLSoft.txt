@@ -1,34 +1,70 @@
-ALLSoft — CASO ACADÉMICO DE SELECCIÓN
+ALLSoft | Bienvenida y desarrollo
 
-Identidad real: marca ALLSoft y logo suministrados por su propietario para esta práctica. Referencia pública consultada el 17 de octubre de 2026: https://allsoft.pages.dev/. El sitio describe software a medida, automatización e integraciones. Esta fuente no acredita vacantes, políticas laborales ni contrataciones.
+ALLSoft
+Software a medida | Automatizacion | Integraciones
+Modelo de formacion | Contexto empresarial colombiano
+1
+Bienvenido/a a ALLSoft
+Kit de bienvenida y desarrollo
+Nos alegra acompañarte en esta nueva etapa. Esta guía te ayudará a conocer tu cargo, organizar tus primeras
+actividades y acordar con tu líder el apoyo que necesitas para avanzar.
+Tu aporte al equipo
+Cargo: auxiliar de gestión documental de proyectos. Tu trabajo conecta al cliente con el equipo técnico:
+registrar solicitudes, mantener documentos actualizados y dar visibilidad a los compromisos. Cada entrega
+debe permitir saber qué se pidió, quién responde y cuál es el siguiente paso.
+Tu primera semana
+Día 1 | Conoce al líder de proyectos y al equipo. Confirma funciones, horario, canal de soporte, recursos y
+orientaciones de seguridad y salud en el trabajo con Gestión Humana.
+Día 2 | Organiza la carpeta del proyecto y registra diez solicitudes con número de radicado, cliente, ciudad,
+fecha, responsable, vencimiento y estado. Usa DD/MM/AAAA y hora de Colombia.
+Día 3 | Revisa versiones y duplicados con tu líder. Conserva el original y registra la corrección; no elimines
+información sin autorización.
+Día 4 | Prepara un correo de seguimiento: asunto, compromiso, pendiente, responsable y fecha. Verifica
+destinatarios y permisos antes de compartir.
+Día 5 | Presenta tres prioridades y explica su impacto. Revisa con tu líder las dudas, los recursos que faltan y
+el plan de acompañamiento.
+Antes de cerrar la semana
+Deja una hoja de seguimiento revisada, un correo aprobado y las prioridades acordadas. Confirma quién
+validará cada entrega. Gestión Humana orienta la vinculación y el bienestar; el líder de proyectos acompaña
+las tareas y valida los avances.
 
-SIMULACIÓN: la vacante, los perfiles, las evidencias, los resultados y el plan siguientes son inventados para la clase. No es una oferta laboral ni un manual oficial de la empresa o de UNIMINUTO.
 
-CONFIGURACIÓN DEL TOUR
-Nombre: ALLSoft — EJEMPLO ACADÉMICO.
-Sector: Software a medida, automatización e integraciones.
-Contacto: Tutor del ejercicio (sin correo real).
-Logo: ALLSoft-logo.png. Subir en Empresas > Logo y verificar la vista previa antes de Agregar. El logo solo se aplica a la empresa elegida, no a todas las empresas del sistema.
-Mensaje: Bienvenido/a a la práctica ALLSoft. Revisa el kit, acuerda las actividades con tu tutor y conserva evidencia de los avances. Este ejercicio no crea un vínculo laboral.
-Adjunto opcional: ALLSoft-Kit-practica.pdf. No adjuntar el logo como documento del kit: cargarlo en su campo de logo.
+ALLSoft
+Software a medida | Automatizacion | Integraciones
+Modelo de formacion | Contexto empresarial colombiano
+2
+Tu plan de desarrollo
+Seguimiento a 7, 14 y 30 días
+Punto de partida: la revisión identifica manejo básico de hojas de cálculo y necesidad de fortalecer el control
+de duplicados y la priorización. Conversa con tu líder para confirmar la evidencia y ajustar el plan antes de
+aceptarlo.
+Día 7 | Calidad del registro
+Actividad: revisar veinte solicitudes con cinco duplicados preparados para el ejercicio, usando filtros y una
+fórmula de control. Meta: identificar los cinco sin alterar registros válidos. Entrega: hoja revisada y explicación
+del método. Apoyo: una sesión de 30 minutos con el líder. Estado: pendiente de revisión.
+Día 14 | Priorización y comunicación
+Actividad: ordenar seis solicitudes por fecha e impacto. Casos: un comercio de Bogotá necesita el reporte de
+inventario para su cierre; una distribuidora de Medellín reporta pedidos duplicados; una empresa de servicios
+de Cali solicita ajustar un formulario. Confirma alcance y vencimiento antes de priorizar. Meta: justificar las
+seis prioridades y redactar dos avisos de cambio de fecha.
+Día 30 | Conversación de seguimiento
+Revisa con tu líder las entregas, los obstáculos y el apoyo recibido. Registra qué mejoró, qué falta y qué
+actividad continúa. Valida el resultado con evidencia, sin confundir una actividad programada con una
+actividad cumplida.
+Acuerdos del colaborador y su líder
+Completar antes de iniciar: nombre y cargo; fecha de inicio; responsable de acompañamiento; recursos;
+fechas de revisión; ajustes solicitados; aceptación de ambas partes. Gestión Humana conserva el registro y
+las evidencias autorizadas.
+Documentos que acompañan tu proceso
+Perfil del cargo, lista de inducción, hoja de seguimiento, plan acordado y registro de revisiones. En el sistema,
+adjunta este kit a la empresa elegida y revisa nombre, logo, destinatario y archivos antes de enviar el correo.
 
-VACANTE SIMULADA
-Auxiliar de gestión documental de proyectos — EJEMPLO.
-Funciones propuestas para la práctica: registrar solicitudes ficticias de automatización, organizar versiones de documentos, mantener una hoja de seguimiento y redactar pendientes para el equipo. No se requiere acceso a clientes ni sistemas reales.
 
-CRITERIOS CONFIGURABLES
-R1 Organización documental 30%; R2 Hoja de cálculo 25%; R3 Comunicación escrita 20%; R4 Priorización 15%; R5 Manejo responsable de información 10%. Ninguno excluyente en esta simulación. Definir antes de valorar. La ausencia de evidencia se registra como sin valorar.
-Perfiles inventados AS-C01, AS-C02, AS-C03: puntuaciones respectivamente [4,3,4,3,4], [3,5,2,4,4], [3,2,4,2,4]. Resultados de referencia 72, 71 y 58 sobre 100 mediante suma(peso * valoración / 5). Son valores didácticos para comprobar la fórmula, no una decisión de contratación.
+NOTAS PARA PREPARAR MATERIAL EN NOTEBOOKLM
+Presentar el contenido con tono empresarial colombiano, sin repetir advertencias en títulos o párrafos. Conservar una nota discreta de modelo de formación. Los casos de Bogotá, Medellín y Cali son situaciones diseñadas para enseñar, no hechos comprobados de clientes. No inventar políticas, beneficios, contratos ni resultados reales de ALLSoft.
 
-ENTREVISTA FICTICIA AS-C01
-«Organizo las solicitudes por fecha y asunto y mantengo una copia anterior cuando cambia un documento. Registro el responsable y el estado en una hoja. Todavía reviso duplicados a mano; necesito aprender una fórmula de control y probarla con una muestra. Cuando llegan solicitudes urgentes consulto al tutor; aún no tengo una matriz para decidir sin esa orientación. Antes de compartir, reviso destinatario y permisos».
-El texto permite discutir R2 y R4; no demuestra todos los niveles numéricos por sí solo. El estudiante debe aportar evidencia para cada valoración y revisar lo sugerido por IA.
-
-ACOMPAÑAMIENTO PROPUESTO
-Día 7: identificar cinco duplicados conocidos en veinte solicitudes ficticias, sin eliminar registros válidos; responsable propuesto: participante y tutor; evidencia: hoja y explicación del control.
-Día 14: ordenar seis solicitudes por vencimiento e impacto, justificar prioridades y preparar dos borradores de cambio de fecha; responsable propuesto: participante y tutor; evidencia: matriz y borradores.
-Día 30: revisar evidencias y acordar los siguientes pasos. Todos los indicadores comienzan pendientes de verificar. Una propuesta solo se registra como aceptada tras revisión explícita de las personas involucradas.
-
-CIERRE Y TRAZABILIDAD
-Conservar requisito, evidencia, valoración, sugerencia IA, revisión humana, decisión argumentada, plan/acuerdos y acciones registradas. Verificar el nombre y logo ALLSoft en informe y vista previa del correo. El kit y el envío son opcionales; no enviar a contactos reales durante la simulación. Compartir con la docente solo los archivos autorizados.
-La IA apoya el análisis textual; no infiere personalidad, emociones, honestidad ni rasgos sensibles por rostro, voz o apariencia.
+REFERENCIAS
+ALLSoft: https://allsoft.pages.dev/ (contexto de software a medida, automatización e integraciones).
+SENA, La inducción en la empresa: https://repositorio.sena.edu.co/handle/11404/4573 (referencia conceptual de inducción a empresa y puesto; no política de ALLSoft).
+SENA, Plan Institucional de Capacitación 2022: https://www.sena.edu.co/es-co/transparencia/Documents/plan_institucional_capacitacion_2022_version2.pdf (referencia de acompañamiento por jefe inmediato y cronograma; adaptación al ejercicio, no requisito general para empresas privadas).
+Consulta: 17/10/2026.
