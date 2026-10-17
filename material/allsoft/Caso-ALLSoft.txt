@@ -1,0 +1,34 @@
+ALLSoft — CASO ACADÉMICO DE SELECCIÓN
+
+Identidad real: marca ALLSoft y logo suministrados por su propietario para esta práctica. Referencia pública consultada el 17 de octubre de 2026: https://allsoft.pages.dev/. El sitio describe software a medida, automatización e integraciones. Esta fuente no acredita vacantes, políticas laborales ni contrataciones.
+
+SIMULACIÓN: la vacante, los perfiles, las evidencias, los resultados y el plan siguientes son inventados para la clase. No es una oferta laboral ni un manual oficial de la empresa o de UNIMINUTO.
+
+CONFIGURACIÓN DEL TOUR
+Nombre: ALLSoft — EJEMPLO ACADÉMICO.
+Sector: Software a medida, automatización e integraciones.
+Contacto: Tutor del ejercicio (sin correo real).
+Logo: ALLSoft-logo.png. Subir en Empresas > Logo y verificar la vista previa antes de Agregar. El logo solo se aplica a la empresa elegida, no a todas las empresas del sistema.
+Mensaje: Bienvenido/a a la práctica ALLSoft. Revisa el kit, acuerda las actividades con tu tutor y conserva evidencia de los avances. Este ejercicio no crea un vínculo laboral.
+Adjunto opcional: ALLSoft-Kit-practica.pdf. No adjuntar el logo como documento del kit: cargarlo en su campo de logo.
+
+VACANTE SIMULADA
+Auxiliar de gestión documental de proyectos — EJEMPLO.
+Funciones propuestas para la práctica: registrar solicitudes ficticias de automatización, organizar versiones de documentos, mantener una hoja de seguimiento y redactar pendientes para el equipo. No se requiere acceso a clientes ni sistemas reales.
+
+CRITERIOS CONFIGURABLES
+R1 Organización documental 30%; R2 Hoja de cálculo 25%; R3 Comunicación escrita 20%; R4 Priorización 15%; R5 Manejo responsable de información 10%. Ninguno excluyente en esta simulación. Definir antes de valorar. La ausencia de evidencia se registra como sin valorar.
+Perfiles inventados AS-C01, AS-C02, AS-C03: puntuaciones respectivamente [4,3,4,3,4], [3,5,2,4,4], [3,2,4,2,4]. Resultados de referencia 72, 71 y 58 sobre 100 mediante suma(peso * valoración / 5). Son valores didácticos para comprobar la fórmula, no una decisión de contratación.
+
+ENTREVISTA FICTICIA AS-C01
+«Organizo las solicitudes por fecha y asunto y mantengo una copia anterior cuando cambia un documento. Registro el responsable y el estado en una hoja. Todavía reviso duplicados a mano; necesito aprender una fórmula de control y probarla con una muestra. Cuando llegan solicitudes urgentes consulto al tutor; aún no tengo una matriz para decidir sin esa orientación. Antes de compartir, reviso destinatario y permisos».
+El texto permite discutir R2 y R4; no demuestra todos los niveles numéricos por sí solo. El estudiante debe aportar evidencia para cada valoración y revisar lo sugerido por IA.
+
+ACOMPAÑAMIENTO PROPUESTO
+Día 7: identificar cinco duplicados conocidos en veinte solicitudes ficticias, sin eliminar registros válidos; responsable propuesto: participante y tutor; evidencia: hoja y explicación del control.
+Día 14: ordenar seis solicitudes por vencimiento e impacto, justificar prioridades y preparar dos borradores de cambio de fecha; responsable propuesto: participante y tutor; evidencia: matriz y borradores.
+Día 30: revisar evidencias y acordar los siguientes pasos. Todos los indicadores comienzan pendientes de verificar. Una propuesta solo se registra como aceptada tras revisión explícita de las personas involucradas.
+
+CIERRE Y TRAZABILIDAD
+Conservar requisito, evidencia, valoración, sugerencia IA, revisión humana, decisión argumentada, plan/acuerdos y acciones registradas. Verificar el nombre y logo ALLSoft en informe y vista previa del correo. El kit y el envío son opcionales; no enviar a contactos reales durante la simulación. Compartir con la docente solo los archivos autorizados.
+La IA apoya el análisis textual; no infiere personalidad, emociones, honestidad ni rasgos sensibles por rostro, voz o apariencia.
